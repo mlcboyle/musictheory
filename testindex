@@ -1,0 +1,72 @@
+<html>
+  <head>
+    <title>♫ Matthew L. C. Boyle ♪ Music Theorist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  </head>
+  <body>
+    <table border="0"
+      style="width:400px"
+      align="center"
+      cellpadding="5"
+      cellspacing="5"
+      <tbody>
+        <tr>
+          <td align="center"
+            valign="middle">
+            <font 
+            size="5"
+            style="color:#D73F09">Matthew L. C. Boyle</font>
+              <br>
+              <i>Music Theorist</i>           
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+      <div class="w3-row-padding">
+        <div class=w3-third">
+           <img src="Files/me1.jpeg"
+                style="max-width: 200ptx"/>
+        </div>
+        <div class="w3-twothird">
+              <p>
+                I’m a music scholar at       
+                <a href="https://liberalarts.oregonstate.edu/directory/matthew-boyle" style="color:#D73F09">
+					Oregon State University</a></font>. 
+                My research examines the social and expressive uses of musical conventions in Italian-language opera. I’m currently working on a series of articles that theorize the rhetorical function of musical annoyance in a broad spectrum of styles from the eighteenth century to the present, ranging from Haydn piano trios & Rossini operas to television jingles & TikTok dance videos. I also have secondary interests in the analysis of secco recitative, musical form in early two-tempo arias, and the Second Viennese School.
+              </p>
+              <p>
+				My publications appear in the <i>Journal of Music Theory</i>, <i>Music Theory Spectrum</i>, <i>Music Theory Online</i>, <i>Indiana Theory Review</i>, <i>Intégral</i>, and the edited collection <i>Analyzing Mozart’s Operas</i> (Peeters Publishers). My article “Galant Recitative Schemas,” co-authored with Paul Sherrill, received the <i>David Kraehenbuehl Prize</i> and the Society for Music Theory’s <i>Emerging Scholar Award</i>.
+              </p>
+            </div>
+          </div>          
+
+      <table 
+        border="0"
+        align="center"
+        cellpadding="5"
+        cellspacing="5">
+			<tbody>
+				<tr>
+					<p
+					width="800"
+					align="center"><small>
+					You can contact me by e-mail at mlboylega [at] gmail.com or through my pages on the <a href="https://hcommons.org/members/matthewlboyle/" style="color:#D73F09">hcommons.org</a> 
+					and <a href="https://oregonstate.academia.edu/MatthewBoyle" style="color:#D73F09">academia.edu</a> websites.</small>
+					</p>
+				</tr>
+       </tbody>
+
+      <div class="w3-row">
+					<div class="w3-col" style="width:20%><p> [ <a href="CV.html" style="color:#D73F09"><i>Curriculum Vitae</i></a> ] </p></div>
+					<div class="w3-col" style="width:20%><p> [ <a href="research.html" style="color:#D73F09">Research</a> ] </p></div>
+					<div class="w3-col" style="width:20%><p> [ <a href="audio.html" style="color:#D73F09">Audio for Musical Example</a> ] </p></div>
+					<div class="w3-col" style="width:20%><p> [ Teaching ] </p></div>
+					<div class="w3-col" style="width:20%><p> [ <a href="links.html" style="color:#D73F09">Links</a> ] </p></div>
+				</div>
+      <div style="text-align: center;">
+        <img src="Files/benny.jpg">
+      </div>  
+  </body>
+</html>
